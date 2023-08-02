@@ -28,7 +28,7 @@ li {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("../dist/8351171.gif");
+  background-image: url("./8351171.gif");
   background-attachment: fixed;
   background-size: cover;
 }
